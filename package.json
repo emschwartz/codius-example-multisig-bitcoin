@@ -3,6 +3,7 @@
   "dependencies": {
     "bigi": "^1.4.0",
     "bitcoinjs-lib": "^1.4.3",
+    "body-parser": "^1.10.1",
     "express": "^4.9.6"
   }
 }
