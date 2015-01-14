@@ -1,0 +1,7 @@
+{
+  "name": "codius-example-multisig-bitcoin",
+  "dependencies": {
+    "bluebird": "^2.6.4",
+    "express": "^4.9.6"
+  }
+}
