@@ -1,7 +1,8 @@
 {
   "name": "codius-example-multisig-bitcoin",
   "dependencies": {
-    "bluebird": "^2.6.4",
+    "bigi": "^1.4.0",
+    "bitcoinjs-lib": "^1.4.3",
     "express": "^4.9.6"
   }
 }
